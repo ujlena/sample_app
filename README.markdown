@@ -1,3 +1,8 @@
+# RoR Tutorial : Smaple application
+
+This is the sample application
+[*GoToBlog*](http://ujlena.blog.me)
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
